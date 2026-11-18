@@ -24,6 +24,6 @@ spec:
     spec:
       containers: 
       - name: facebook-container
-        image: saladipraveen/argoproject:10
+        image: saladipraveen/argoproject:12
         ports:
         - containerPort: 8080
